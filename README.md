@@ -34,11 +34,13 @@ GIF created with Screen to Gif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+I thought using github was a bit challenging. Also, learning some of the javascript functions and css rules was also a bit challenging. Overall, I enjoyed working on this project, and I look forward to taking Web_102.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
